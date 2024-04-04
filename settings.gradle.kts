@@ -15,5 +15,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "kotlinjs"
-include(":shared")
-include(":main")
+include(":app")

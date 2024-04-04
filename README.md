@@ -1,3 +1,3 @@
 # Run in browser
 
-./gradlew main:browserDevelopmentRun
+./gradlew app:browserDevelopmentRun
